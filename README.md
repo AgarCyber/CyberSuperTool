@@ -17,7 +17,7 @@ Nmap tabanlı, menü sürümlü bir tarama/keşif aracı.
 ```bash
 git clone https://github.com/AgarCyber/CyberSuperTool.git
 cd CyberSuperTool
-chmod +x CyberSuperTool.sh
+sed -i 's/\r$//' CyberSuperTool.sh  (IMPORTANT!!!) 
 bash CyberSuperTool.sh
 
 Gereksinim / Requirements: nmap, curl
@@ -27,3 +27,5 @@ Gereksinim / Requirements: nmap, curl
 Ek özellikler: admin panel bulucu, crt.sh üzerinden subdomain/gerçek-IP ipucu, versiyon risk uyarısı. (Extra features: Admin panel finder, subdomain/real IP discovery via crt.sh, version risk warnings.)
 
 Otomatik log kaydı (logs/ klasörü). (Automatic logging in logs/ directory.)
+
+Toolda bazı Teknik hatalar vardır hepsi yakın zamanda onarılacakdır
