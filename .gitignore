@@ -1,0 +1,8 @@
+# Log fayllarını görməzdən gəl
+logs/
+*.txt
+*.log
+
+# Sistem faylları (Windows və Mac üçün)
+.DS_Store
+Thumbs.db
