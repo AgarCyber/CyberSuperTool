@@ -15,7 +15,7 @@ Nmap tabanlı, menü sürümlü bir tarama/keşif aracı.
 ## Kurulum / Setup
 
 ```bash
-git clone [https://github.com/](https://github.com/)<kullanici-adi>/CyberSuperTool.git
+git clone https://github.com/AgarCyber/CyberSuperTool.git
 cd CyberSuperTool
 chmod +x CyberSuperTool.sh
 ./CyberSuperTool.sh
