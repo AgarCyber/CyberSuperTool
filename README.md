@@ -20,7 +20,7 @@ cd CyberSuperTool
 chmod +x CyberSuperTool.sh
 ./CyberSuperTool.sh
 
-# Gereksinim / Requirements: nmap, curl
+Gereksinim / Requirements: nmap, curl
 Özellikler / Features
 10 kategori halinde 100+ Nmap komutu. (100+ Nmap commands organized into 10 categories.)
 
